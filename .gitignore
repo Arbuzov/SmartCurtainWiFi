@@ -1,0 +1,4 @@
+/.project
+.vscode
+/SmartCurtainWiFi.ino.esp32.bin
+/WiFiCredentials.h

@@ -2,3 +2,4 @@
 .vscode
 /SmartCurtainWiFi.ino.esp32.bin
 /WiFiCredentials.h
+/Settings.h
